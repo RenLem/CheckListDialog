@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Check List Dialog</string>
+
+    <string-array name="languages_list">
+        <item>Španjolski</item>
+        <item>Francuski</item>
+        <item>Portugalski</item>
+        <item>Švicarski</item>
+    </string-array>
+</resources>
